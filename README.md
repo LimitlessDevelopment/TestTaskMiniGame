@@ -1,6 +1,6 @@
 # TestTaskMiniGame
 
-A Test Task “match-and-remove” demo built in Unity 6000.0.23 (URP). Click falling figures to send them into an Action Bar—stack three identical in one slot to clear them. Empty the field → Win; fill the bar → Lose.
+A Test Task demo built in Unity 6000.0.23 (URP).
 
 ## 📝 Scripts Overview
 
